@@ -1,0 +1,7 @@
+C:\Users\ignac\Desktop\Ejercicio POO pedido\ExceptionHandledExample\ExceptionHandledExample\bin\Debug\ExceptionHandledExample.exe.config
+C:\Users\ignac\Desktop\Ejercicio POO pedido\ExceptionHandledExample\ExceptionHandledExample\bin\Debug\ExceptionHandledExample.exe
+C:\Users\ignac\Desktop\Ejercicio POO pedido\ExceptionHandledExample\ExceptionHandledExample\bin\Debug\ExceptionHandledExample.pdb
+C:\Users\ignac\Desktop\Ejercicio POO pedido\ExceptionHandledExample\ExceptionHandledExample\obj\Debug\ExceptionHandledExample.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Ejercicio POO pedido\ExceptionHandledExample\ExceptionHandledExample\obj\Debug\ExceptionHandledExample.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Ejercicio POO pedido\ExceptionHandledExample\ExceptionHandledExample\obj\Debug\ExceptionHandledExample.exe
+C:\Users\ignac\Desktop\Ejercicio POO pedido\ExceptionHandledExample\ExceptionHandledExample\obj\Debug\ExceptionHandledExample.pdb
